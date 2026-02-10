@@ -83,9 +83,7 @@ LinkedIn: linkedin.com/in/purvi-jain-315683326
 
 ---
 
-📜 License
+## 📜 License
+
 This project is open-source and available under the MIT License.
 ---
-
-streamlit
-nltk
